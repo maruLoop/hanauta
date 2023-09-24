@@ -1,5 +1,5 @@
-module github.com/maruLoop/hanauta
+module github.com/maruloop/hanauta
 
 go 1.20
 
-require github.com/nunocoracao/blowfish/v2 v2.40.1 // indirect
+require github.com/jpanther/lynx v1.3.1 // indirect
