@@ -10,7 +10,9 @@ disableKinds = ["taxonomy", "term"]
 
 [author]
   name = "はなうた"
-  headline = "毎日の生活にほんの少し幸せを添えるお花屋さん"
+  headline = """花が歌うように  
+  鼻歌を歌いたくなるように  
+  毎日の生活にひとさじの幸せを添えるお花屋さん.｡.:*･"""
   image = "author.jpg"
   
   links = [

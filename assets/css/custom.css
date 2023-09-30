@@ -19,3 +19,10 @@ body {
     border-style: solid;  
     border-color: black;  
   }
+
+  @media (max-width: 375px) {
+    .headline {
+        font-size: 0.75rem;
+        line-height: 1rem;
+    }
+  }
