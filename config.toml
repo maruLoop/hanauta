@@ -10,11 +10,12 @@ disableKinds = ["taxonomy", "term"]
 
 [author]
   name = "はなうた"
-  headline = "ブリザーブドフラワーのフラワーアンレンジメント"
+  headline = "毎日の生活にほんの少し幸せを添えるお花屋さん"
   image = "author.jpg"
   
   links = [
     { instagram = { href = "https://instagram.com/hanauta.a", text = "Instagram" } },
+    { creema = { href = "https://www.creema.jp/c/hanauta_day", text = "Creema"} },
     # { email = "mailto:hello@your_domain.com" },
     # { link = "https://link-to-some-website.com/" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
