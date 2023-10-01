@@ -20,7 +20,7 @@
           src="{{ $src }}"
         />
       {{ end }}
-      <h1 class="text-4xl font-extrabold dark:text-white">
+      <h1 class="text-4xl font-extrabold">
         <img
             class="mb-2 h-1/2 w-36"
             alt="{{ .Params.title | default .Site.Author.name | default .Site.Title | emojify }}"
@@ -30,12 +30,12 @@
         />
       </h1>
       {{ with .Site.Author.headline }}
-        <h2 class="headline text-sm text-neutral-500 dark:text-neutral-400">
+        <h2 class="headline text-sm text-neutral-500">
           {{ . | markdownify | emojify }}
         </h2>
       {{ end }}
       {{ with .Content }}
-        <section class="pt-5 prose dark:prose-invert">{{ . | emojify }}</section>
+        <section class="pt-5 prose">{{ . | emojify }}</section>
       {{ end }}
     </header>
     {{ with .Site.Author.links }}
