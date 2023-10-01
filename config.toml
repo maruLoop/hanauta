@@ -4,11 +4,12 @@ defaultContentLanguage = "ja"
 
 title = "Hanauta"
 # copyright = "Copy, _right?_ :thinking_face:"
+enableEmoji = true
+disableKinds = ["taxonomy", "term"]
+
 [params]
   description = "ハンドメイドによるプリザーブドフラワーのフラワーアレンジメントのお店です。花が歌うように 鼻歌を歌いたくなるように 毎日の生活にひとさじの幸せを添えられるようなお花屋さんを目指しています。"
 
-enableEmoji = true
-disableKinds = ["taxonomy", "term"]
 
 [author]
   name = "はなうた"
