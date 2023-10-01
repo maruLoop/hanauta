@@ -21,7 +21,7 @@ disableKinds = ["taxonomy", "term"]
   links = [
     { instagram = { href = "https://instagram.com/hanauta.day/", text = "Instagram" } },
     { creema = { href = "https://www.creema.jp/c/hanauta_day", text = "Creema"} },
-    { preserved_flower = { href = "/preserved_flower/", text = "長く楽しむために"} },
+    { preserved_flower = { href = "/preserved_flower/", text = "長く楽しむために", target = "_self"} },
     # { email = "mailto:hello@your_domain.com" },
     # { link = "https://link-to-some-website.com/" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
