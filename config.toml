@@ -13,7 +13,7 @@ disableKinds = ["taxonomy", "term"]
   headline = """花が歌うように  
   鼻歌を歌いたくなるように  
   毎日の生活にひとさじの幸せを添えるお花屋さん.｡.:*･"""
-  image = "author.jpg"
+  image = "author.jpeg"
   
   links = [
     { instagram = { href = "https://instagram.com/hanauta.a", text = "Instagram" } },
