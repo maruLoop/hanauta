@@ -12,13 +12,28 @@ body {
     line-height: 1rem;
 }
 
+.link-instagram {
+    background: rgb(255, 255, 255);
+    color: rgb(97, 88, 88);
+    border-width: 1px;  
+    border-style: solid;  
+    border-color: black;  
+}
 .link-creema {
     background: rgb(255, 255, 255);
     color: rgb(97, 88, 88);
     border-width: 1px;  
     border-style: solid;  
     border-color: black;  
-  }
+}
+
+.link-preserved_flower {
+    background: rgb(255, 255, 255);
+    color: rgb(97, 88, 88);
+    border-width: 1px;  
+    border-style: solid;  
+    border-color: black;  
+}
 
 @media (max-width: 375px) {
     .headline {
