@@ -19,9 +19,9 @@ disableKinds = ["taxonomy", "term"]
   image = "author.webp"
   
   links = [
-    { instagram = { href = "https://instagram.com/hanauta.day/", text = "Instagram" } },
-    { creema = { href = "https://www.creema.jp/c/hanauta_day", text = "Creema"} },
-    { preserved_flower = { href = "/preserved_flower/", text = "長く楽しむために", target = "_self"} },
+    { instagram = { href = "https://instagram.com/hanauta.day/", text = "Instagram", description = "【新作や出店情報をのせております】" } },
+    { creema = { href = "https://www.creema.jp/c/hanauta_day", text = "Creema", description = "【新作のお花を不定期で販売しております】"} },
+    { preserved_flower = { href = "/preserved_flower/", text = "長く楽しむために", target = "_self", description = ""} },
     # { email = "mailto:hello@your_domain.com" },
     # { link = "https://link-to-some-website.com/" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
